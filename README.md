@@ -13,3 +13,6 @@
   
 4. try_decodings.py        解码加密字符串(from:https://github.com/nbeaver/try-decodings )    
 运行方式：python ./try_decodings.py  string
+
+参考文章:  
+http://www.freebuf.com/articles/ics-articles/176868.html  
